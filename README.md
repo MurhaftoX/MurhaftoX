@@ -12,16 +12,6 @@
 
 <p align="left">Murhaf here — a software developer from Syria, turning ideas into digital reality.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2018 — and fixing some of them too!<br>📚 I'm currently learning advanced backend development with Node.js and system design principles.<br>🎯 Goals: Build impactful open-source tools, contribute to developer communities, and land a remote role with a great team.<br>🎲 Fun fact: I drink more coffee debugging than coding — but I still love every second of it.</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -49,6 +39,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
 </div>
+
+###
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2018 — and fixing some of them too!<br>📚 I'm currently learning advanced backend development with Node.js and system design principles.<br>🎯 Goals: Build impactful open-source tools, contribute to developer communities, and land a remote role with a great team.<br>🎲 Fun fact: I drink more coffee debugging than coding — but I still love every second of it.</p>
 
 ###
 
