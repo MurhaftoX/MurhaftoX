@@ -50,6 +50,12 @@
 
 <p align="left">✨ Creating bugs since 2018 — and fixing some of them too!<br>📚 I'm currently learning advanced backend development with Node.js and system design principles.<br>🎯 Goals: Build impactful open-source tools, contribute to developer communities, and land a remote role with a great team.<br>🎲 Fun fact: I drink more coffee debugging than coding — but I still love every second of it.</p>
 
+
+### 🔥 GitHub Streak
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurhaftoX&theme=radical" />
+</div>
+
 ###
 
 <div align="center">
@@ -57,3 +63,5 @@
 </div>
 
 ###
+
+
