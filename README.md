@@ -12,36 +12,6 @@
 
 <p align="left">Murhaf here — a software developer from Syria, turning ideas into digital reality.</p>
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
-
-###
-
 ###
 
 <h2 align="left">About me</h2>
@@ -50,18 +20,23 @@
 
 <p align="left">✨ Creating bugs since 2018 — and fixing some of them too!<br>📚 I'm currently learning advanced backend development with Node.js and system design principles.<br>🎯 Goals: Build impactful open-source tools, contribute to developer communities, and land a remote role with a great team.<br>🎲 Fun fact: I drink more coffee debugging than coding — but I still love every second of it.</p>
 
+###
 
-### 🔥 GitHub Streak
+<h2 align="left">
+
+###
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MurhaftoX&theme=radical" />
+  <h3>🚀 My Tech Stack</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,storybook,nodejs,nestjs,jest,discord,docker,flutter,androidstudio,canva,firebase,github,gcp,html,mysql,wordpress" />
+  </p>
 </div>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BhajBpenNxcDlxamx3NDNyajhyOTA4cWM5MXcyZzlyMTZlaXh5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif"  />
+  <img height="200" src="https://files.catbox.moe/8e00qx.webp" />
 </div>
 
 ###
-
-
