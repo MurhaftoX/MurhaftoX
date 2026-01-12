@@ -29,7 +29,7 @@
 <div align="center">
   <h3>🚀 My Tech Stack</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,storybook,nodejs,nestjs,laravel,discord,docker,flutter,androidstudio,canva,firebase,github,gcp,html,mysql,wordpress,figma,dart,notion,prisma,tailwind,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,storybook,nodejs,nestjs,laravel,discord,docker,flutter,androidstudio,canva,firebase,github,gcp,html,mysql,wordpress,figma,dart,notion,prisma,tailwind,vscode" />
   </p>
 </div>
 
